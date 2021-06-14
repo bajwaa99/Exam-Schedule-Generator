@@ -1,5 +1,5 @@
 # Exam-Schedule-Generator
-Using Genetic Algorithm to solve Exam Scheduling Problem in Java
+Using Genetic Algorithm to solve Exam Scheduling Problem in Java (Net Beans)
 
 **Exam Schedule Generation by Searching (Local and Evolutionary)**
 
